@@ -14,5 +14,5 @@ mvn exec:java
 ```
 
 ## Support
-For more help see the (Apache Camel documentation)[http://camel.apache.org]
+For more help see the [Apache Camel documentation](http://camel.apache.org)
 
