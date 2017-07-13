@@ -1,9 +1,0 @@
-Dear Customer,
-
-Your order number 1 was processed successfully!
-
-The Item 1 will be charged in your credit card, in a total amount of US$ 10.0.
-
-Sincerely
-
-Red Hat Training

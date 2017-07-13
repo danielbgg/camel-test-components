@@ -1,8 +1,0 @@
-<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:ws="http://wscodefirst.danielbgg.com.br/">
-   <soapenv:Header/>
-   <soapenv:Body>
-      <ws:getAvailableItems>
-         <itemName>PENCIL</itemName>
-      </ws:getAvailableItems>
-   </soapenv:Body>
-</soapenv:Envelope> 
