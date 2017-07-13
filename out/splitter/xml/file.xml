@@ -1,0 +1,7 @@
+<Payment>
+        <orderId>3</orderId>
+        <item>LAPTOP</item>
+        <value>1400</value>
+        <monetary>USD</monetary>
+        <customer>MARK DOE</customer>
+    </Payment>
