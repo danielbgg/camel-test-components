@@ -1,0 +1,9 @@
+Dear Customer,
+
+Your order number $body.id was processed successfully!
+
+The $body.description will be charged in your credit card, in a total amount of US$ $body.price.
+
+Sincerely
+
+Red Hat Training
